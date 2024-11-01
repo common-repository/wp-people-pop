@@ -1,0 +1,19 @@
+.pp_listing img, .forced-img {
+	-moz-box-shadow: -2px -2px #666; -webkit-box-shadow: -2px -2px #666; box-shadow: -2px -2px #666;
+	border:solid 1px #ccc;
+	width:100%;
+}
+.pp_info {
+	padding:10px;
+}
+.pp_quote {
+	font-style:italic;
+	padding:10px;
+	line-height:1.2;
+}
+.pp_summary {
+	padding:10px;
+}
+.pp_title {
+	font-weight:bold;
+}
